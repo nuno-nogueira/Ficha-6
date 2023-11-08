@@ -1,0 +1,32 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    background-color: #070606;
+    padding: 50px;
+}
+
+.heading{
+    color: #FFFFFF;
+    font-size: 75px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.main_information{
+    color: #BDBDBD;
+    padding-right: 10px;
+    border-right: 10px;
+}
+
+.get_started_button{
+    background-color: #2B892E;
+    color: #BDBDBD;
+    border-radius: 20px;
+    padding: 10px;
+    width: 100px;
+    border: none;
+}
+
+img{
+    width: 900px;
+    height: 600px;
+}
